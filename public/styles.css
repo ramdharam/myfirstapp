@@ -1,3 +1,6 @@
 .profile {
-   background: lightgrey;
+   background-color: lightgrey;
+   padding: 10px;
+   margin: 10px;
+   text-align: center;
  }
